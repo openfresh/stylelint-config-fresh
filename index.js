@@ -4,7 +4,7 @@ module.exports = {
     'stylelint-order'
   ],
   rules : {
-    'order/declaration-block-properties-specified-order': [
+    'order/properties-order': [
       'position',
       'z-index',
       'top',
