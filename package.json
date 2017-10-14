@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-fresh",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Stylelint sharable config for FRESH!",
   "main": "index.js",
   "repository": "openfresh/stylelint-config-fresh",
