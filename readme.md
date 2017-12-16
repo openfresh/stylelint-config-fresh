@@ -1,5 +1,7 @@
 # stylelint-config-fresh
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/openfresh/stylelint-config-fresh.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/openfresh/stylelint-config-fresh.svg?branch=master)](https://travis-ci.org/openfresh/stylelint-config-fresh)
 [![devDependency Status](https://david-dm.org/openfresh/stylelint-config-fresh/dev-status.svg)](https://david-dm.org/openfresh/stylelint-config-fresh?type=dev)
 [![peerDependency Status](https://david-dm.org/openfresh/stylelint-config-fresh/peer-status.svg)](https://david-dm.org/openfresh/stylelint-config-fresh?type=peer)
