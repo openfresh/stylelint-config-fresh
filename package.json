@@ -14,13 +14,13 @@
   },
   "homepage": "https://github.com/openfresh/stylelint-config-fresh#readme",
   "devDependencies": {
-    "stylelint": "^8.4.0",
-    "stylelint-config-standard": "^18.0.0",
-    "stylelint-order": "^0.8.0"
+    "stylelint": "^9.1.1",
+    "stylelint-config-standard": "^18.1.0",
+    "stylelint-order": "^0.8.1"
   },
   "peerDependencies": {
-    "stylelint": "^8.4.0",
-    "stylelint-config-standard": "^18.0.0",
-    "stylelint-order": "^0.8.0"
+    "stylelint": "^9.1.1",
+    "stylelint-config-standard": "^18.1.0",
+    "stylelint-order": "^0.8.1"
   }
 }
