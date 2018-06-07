@@ -56,7 +56,6 @@ module.exports = {
       'list-style-position',
       'list-style-type',
       'list-style-image',
-
       'content',
       'quotes',
       'counter-reset',
