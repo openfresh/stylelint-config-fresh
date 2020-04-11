@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/openfresh/stylelint-config-fresh#readme",
   "devDependencies": {
-    "stylelint": "^9.4.0",
+    "stylelint": "^13.3.2",
     "stylelint-config-standard": "^18.2.0",
     "stylelint-order": "^1.0.0"
   },
